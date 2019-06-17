@@ -4,3 +4,5 @@ sanzang
 yaojing
 sanzang
 nihao
+niubi
+hello
